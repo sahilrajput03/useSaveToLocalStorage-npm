@@ -19,7 +19,7 @@ export default function App() {
 	// ...
 ```
 
-[See in action in this repository](https://github.com/sahilrajput03/warikoo-time-manager/tree/main)
+See in action in [this repository](https://github.com/sahilrajput03/warikoo-time-manager/tree/main)
 
 
 Thanks for visting.
