@@ -7,6 +7,8 @@ npm i usesavetolocalstorage
 Usage:
 
 ```js
+import {createDb, useSaveToLocalStorage} from 'usesavetolocalstorage'
+
 // Using setup for storing on localstorage
 const initial = {current: {}, todos: []}
 const db = createDb('db', initial)
